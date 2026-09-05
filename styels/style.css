@@ -2,3 +2,31 @@ span{
     background-color: rgb(255, 255, 255);
     color: rgb(97, 94, 94);
 }
+.one{
+    border-style: inset;
+    border-width: 3px;
+}
+th{
+    padding: 0px;
+    border: solid 2px black;
+}
+td{
+    padding: 4px;
+    border: solid 1px black;
+}
+.ggg{
+     background-color: rgb(255, 255, 255);
+    color: rgb(255, 0, 0);
+    text-align: right;
+}
+
+.conteiner{
+    margin: 20px;
+    margin-top: 50px;
+    display: inline-block;
+  text-align: center;
+    background-color: rgb(255, 255, 255);
+}
+.conteiner>img{
+    max-width: 300px;
+}
